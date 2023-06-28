@@ -25,6 +25,7 @@ function creatImgMarkup(galleryItems) {
     captionDelay: 250,
     close: true,
     // enableKeyboard: true,
+   
 
 
 });

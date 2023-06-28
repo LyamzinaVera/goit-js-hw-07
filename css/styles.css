@@ -44,3 +44,9 @@
 }
 
 
+
+
+.sl-wrapper .sl-image .sl-caption {
+  background-color: rgb(0, 140, 255);
+  color: rgb(14, 14, 119);
+}
